@@ -1,4 +1,46 @@
 .heading {
     text-align: center;
-    color: per;
+    color: peru;
+    background-color: black;
+    font-size: 30px;
+}
+
+.pic {
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.pic img{
+    max-width:75%;  
+    height: auto; 
+}
+
+.content .history {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.content .history #hist {
+    color: peru;
+    background-color: black;
+}
+
+.content .food {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.content .food .ul {
+    text-align: center;
+    list-style: circle;
+}
+
+.content .food #food{
+    color: peru;
+    background-color: black;
+    text-align: center;
 }
